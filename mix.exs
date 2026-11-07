@@ -1,8 +1,8 @@
 defmodule Phoenix.PubSub.PostgreSQL.MixProject do
   use Mix.Project
 
-  @version "0.7.0"
-  @source_url "https://github.com/jvantuyl/phoenix_pubsub_postgresql"
+  @version "0.7.1"
+  @source_url "https://github.com/aggressive-labs/phoenix_pubsub_postgresql"
 
   def project do
     [

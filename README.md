@@ -1,6 +1,6 @@
 # Phoenix.PubSub.PostgreSQL
 
-[![Build Status](https://github.com/jvantuyl/phoenix_pubsub_postgresql/workflows/CI/badge.svg)](https://github.com/jvantuyl/phoenix_pubsub_postgresql/actions/workflows/ci.yml) [![Hex.pm](https://img.shields.io/hexpm/v/phoenix_pubsub_postgresql.svg)](https://hex.pm/packages/phoenix_pubsub_postgresql) [![Documentation](https://img.shields.io/badge/documentation-gray)](https://phoenix-pubsub-postgresql.hexdocs.pm)
+[![Build Status](https://github.com/aggressive-labs/phoenix_pubsub_postgresql/workflows/CI/badge.svg)](https://github.com/aggressive-labs/phoenix_pubsub_postgresql/actions/workflows/ci.yml) [![Hex.pm](https://img.shields.io/hexpm/v/phoenix_pubsub_postgresql.svg)](https://hex.pm/packages/phoenix_pubsub_postgresql) [![Documentation](https://img.shields.io/badge/documentation-gray)](https://phoenix-pubsub-postgresql.hexdocs.pm)
 
 A Phoenix PubSub adapter that uses PostgreSQL's `LISTEN` / `NOTIFY` for message distribution.
 
